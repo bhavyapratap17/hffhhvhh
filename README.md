@@ -1,4 +1,4 @@
-# 📊 Bank Customer Churn Analysis (SQL · Python · Tableau)
+# 📊 Bank Customers Churn Analysis (SQL · Python · Tableau)
 
 ---
 
@@ -87,6 +87,6 @@ Here’s a snapshot of the **interactive Tableau dashboard** used in this projec
 ## 📧 Contact
 👤 **Bhavya Pratap**  
 - LinkedIn: [linkedin.com/in/bhavyapratap17](https://linkedin.com/in/bhavyapratap17)  
-- Email: tamsakarwa@gmail.com  
+- Email: bhavyapratap766@gmail.com  
 
 ---
